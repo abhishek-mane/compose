@@ -1,0 +1,4 @@
+{
+    "git.enableCommitSigning": true,
+    "python.pythonPath": "/opt/miniconda3/envs/compose/bin/python"
+}
